@@ -1,0 +1,15 @@
+cloud:
+  aws:
+    credentials:
+      accessKey: AKIAIRYUBGUILGEGPLAA
+      secretKey: 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
+      
+    region:
+      static: us-east-2
+    stack:
+      auto: true
+      
+amazon:
+   dynamodb:
+      endpoint: http://localhost:8000/
+ 
